@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E30A69FD27FC6D27001BCD08 /* PopularCardModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E30A69FC27FC6D27001BCD08 /* PopularCardModel.swift */; };
 		E3A6D6EB27FC5DDD005C00F0 /* EcommerceDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A6D6EA27FC5DDD005C00F0 /* EcommerceDemoApp.swift */; };
 		E3A6D6ED27FC5DDD005C00F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3A6D6EC27FC5DDD005C00F0 /* ContentView.swift */; };
 		E3A6D6EF27FC5DE0005C00F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3A6D6EE27FC5DE0005C00F0 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E30A69FC27FC6D27001BCD08 /* PopularCardModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopularCardModel.swift; sourceTree = "<group>"; };
 		E3A6D6E727FC5DDD005C00F0 /* EcommerceDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EcommerceDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3A6D6EA27FC5DDD005C00F0 /* EcommerceDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EcommerceDemoApp.swift; sourceTree = "<group>"; };
 		E3A6D6EC27FC5DDD005C00F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				E3A6D6EC27FC5DDD005C00F0 /* ContentView.swift */,
 				E3A6D6EE27FC5DE0005C00F0 /* Assets.xcassets */,
 				E3A6D6F027FC5DE0005C00F0 /* Preview Content */,
+				E30A69FC27FC6D27001BCD08 /* PopularCardModel.swift */,
 			);
 			path = EcommerceDemo;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E30A69FD27FC6D27001BCD08 /* PopularCardModel.swift in Sources */,
 				E3A6D6ED27FC5DDD005C00F0 /* ContentView.swift in Sources */,
 				E3A6D6EB27FC5DDD005C00F0 /* EcommerceDemoApp.swift in Sources */,
 			);
